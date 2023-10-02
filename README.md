@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ethan-Mr-Hunt
-- 👀 I’m interested in coding specifically in python and java. 
+- 👀 I’m interested in coding specifically in python. 
 - 🌱 I’m currently learning about AI/ML especially explainable AI
 - 💞️ I’m looking to collaborate on any fun coding project really!
 - 📫 How to reach me My LinkedIn: www.linkedin.com/in/zee-khan-620b50247
